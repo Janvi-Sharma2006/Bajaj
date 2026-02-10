@@ -9,10 +9,10 @@ import java.util.*;
 @CrossOrigin(origins = "*")
 public class BfhlController {
 
-    private final String EMAIL = "jitashi1260.be23@chitkarauniversity.edu.in";
+    private final String EMAIL = "janvi1253.be23@chitkarauniversity.edu.in";
     
     // REPLACE WITH YOUR ACTUAL KEY
-    private final String GEMINI_API_KEY = "AIzaSyATmsbZyV33wB-TcRXNWctJYXK7i4Ja2nE";
+    private final String GEMINI_API_KEY = "AIzaSyATmsbZyV33wB-T+cRXNWctJYXK7i4Ja2nE";
     
     // Using the specific model version you requested
     private final String GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=" + GEMINI_API_KEY;
